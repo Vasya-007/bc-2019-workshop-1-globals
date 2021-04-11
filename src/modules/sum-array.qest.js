@@ -1,4 +1,4 @@
-const sumArray = require('./sum-array');
+/* const sumArray = require('./sum-array');
 
 describe('sumArray()', () => {
   test('works well with empty array', () => {
@@ -10,3 +10,4 @@ describe('sumArray()', () => {
     expect(result).toBe(550);
   });
 });
+ */
